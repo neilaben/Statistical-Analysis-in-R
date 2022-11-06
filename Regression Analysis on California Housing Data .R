@@ -1,4 +1,4 @@
-#Project 1: Regression Analysis on California Housing Data 
+# Regression Analysis on California Housing Data 
 # Target variable/dependent variable == Median House Price
 
 # install bthese packages and call on their libraries
@@ -15,8 +15,6 @@ library(forcats)
 library(corrplot)
 library(GGally)
 library(caret)
-
-
 library(fmsb)
 library(UsingR)
 library(car)
