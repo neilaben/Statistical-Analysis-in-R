@@ -17,4 +17,8 @@
 Uses the housing.csv dataset 
 Methods: Linear Regression, Multiple Regression, ANOVA
 
+## NOTE
+All projects were completed on Rstudio. 
+Download the necessary packages before running. 
+
 
